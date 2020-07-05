@@ -9,7 +9,7 @@ Anims3 = [Actor('prince'), Actor('prince'), Actor('prince')]
 numAnims = len(Anims)
 animIndex = 0
 animSpeed = 0
-t = 0。0
+t = 0
 
 
 player_x = WIDTH / 10
